@@ -1,0 +1,7 @@
+.env
+paypal_ai/
+venv/
+__pycache__/
+contributions.json
+.ipynb_checkpoints/
+codes/
